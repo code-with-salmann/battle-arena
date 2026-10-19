@@ -1,3 +1,4 @@
+<img width="1080" height="2436" alt="2802" src="https://github.com/user-attachments/assets/8be43f4d-33e9-4a17-b2b0-8e8f1458930b" />
 # 🎮 Battle Arena
 
 A 2D browser-based survival game built using HTML, CSS and JavaScript.
